@@ -100,7 +100,7 @@ pre {
 }
 
 .site-header a:hover {
-    color: #57a3e8;
+    color: #ff79c6;
 }
 
 .site-header .site-name {
@@ -145,8 +145,8 @@ pre {
 }
 
 .site-footer .bottom-panel {
-    color: #808080;
-    background-color: #222222;
+    color: #50fa7b;
+    background-color: #282a36;
     padding: 20px 0;
 }
 
