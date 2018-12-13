@@ -88,7 +88,7 @@ pre {
 -----------------------*/
 .site-header {
     padding: 5% 0 5% 0;
-    background: url('../img/gutenburg.jpg')
+    background: url('../img/gutenburg.jpg');
     background-color: #282a36;
     color: whitesmoke;
     text-align: center;
