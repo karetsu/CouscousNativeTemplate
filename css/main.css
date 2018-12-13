@@ -135,9 +135,9 @@ pre {
     height: 68px;
     bottom: 0;
     width: 100%;
-    background: 50% 50% repeat url("../img/footer_bg.png");
+    background: #282a36;
     color: #64b2df;
-    border-top: 2px solid #c0c0c0;
+    border-top: 2px solid #f8f8f2;
 }
 
 .site-footer .top-bar-line {
